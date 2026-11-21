@@ -27,6 +27,7 @@ landscape.
 | [**HRNSXTN x RDMSXN**](https://grashopr-888.github.io/current-projects/projects/hrnsxtn/) | Neural audio instruments on a screenless pedal: a distilled codec student on the Elk Stomp | ISMIR 2026 Late-Breaking Demo · 1st and 2nd at Music Hackspace × MUTEK |
 | [**Lichtspiel**](https://grashopr-888.github.io/current-projects/projects/lichtspiel/) | Live audiovisual instrument for Ableton: LLM-written p5.js scenes behind a five-gate verifier | Built at the AIMS 2026 hackathon, Berklee |
 | [**Meteora**](https://grashopr-888.github.io/current-projects/projects/meteora/) | A reverb computed from open terrain data of Meteora, Greece, that listens to the player | Released for ADC 2026, Bristol · [free download](https://github.com/Grashopr-888/meteora-releases/releases/latest) |
+| [**Live.Muse**](https://grashopr-888.github.io/current-projects/projects/livemuse/) | Generative audiovisual performance framework: a monome grid, Processing and Sonic Pi, with language-model assistants that write code mid-set | Talk at Mutacions 2025, Terrassa · Installation in Barcelona, Dec 2025 · [full album (4K)](https://www.youtube.com/watch?v=TfMPCyXtrzo) |
 | [**Probing the World for Groove**](https://grashopr-888.github.io/current-projects/projects/groove/) | MSc thesis: frozen PaSST probed against a drum-specific CNN | ISMIR 2025 Late-Breaking Demo · Leiden University |
 
 ---
@@ -56,6 +57,7 @@ landscape.
   <img height="32" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Sonic_Pi-FF1493?style=for-the-badge" />
   <img height="32" src="https://img.shields.io/badge/Pure_Data-2C2C2C?style=for-the-badge" />
 </p>
 
