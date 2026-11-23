@@ -33,7 +33,7 @@ landscape.
 ---
 
 ## 📄 Publications
-- **Windchime: an Audiovisual Installation with Audio-Language Model implementations**. NeurIPS 2026, Creative AI Track. [OpenReview](https://openreview.net/forum?id=KKLTKVVHkM)
+- **Windchime: an Audiovisual Installation with Audio-Language Model implementations**. NeurIPS 2026, Creative AI Track. [arXiv](https://arxiv.org/abs/2611.26759) · [OpenReview](https://openreview.net/forum?id=KKLTKVVHkM)
 - **Neural Codec Latent Distillation for Corpus Retrieval Synthesis on the Elk Stomp**. ISMIR 2026, Late-Breaking Demo. [Paper and code](https://github.com/Grashopr-888/ISMIR_LBD_2026_submission)
 - **A Comparative Study of Transfer Learning for Drum Audio Style Classification**. ISMIR 2025, Late-Breaking Demo. [Notebooks, thesis and paper](https://github.com/Grashopr-888/A-comparative-study-of-Transfer-Learning-for-Drum-audio-Style-Classification-)
 
